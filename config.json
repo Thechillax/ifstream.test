@@ -1,0 +1,6 @@
+{
+	"name": "CK",
+	"age": 25,
+	"skills": [ "C++", "Python", "Linux" ],
+	"is_student": false
+}
